@@ -1,1 +1,1 @@
-This is the new content of chapter2
+This is the new content of chapter2 in terms of play branch
